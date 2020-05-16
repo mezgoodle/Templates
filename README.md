@@ -40,6 +40,9 @@ Depending on the size of the project, if it is small and simple enough the refer
 ## Tests
 Describe and show how to run the tests with code examples.
 
+## Community
+Look at this [this](https://lab.github.com/public/community-starter-kit.pdf) file to find out community-starter-kit
+
 ## How to use?
 If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
 
