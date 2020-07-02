@@ -1,6 +1,6 @@
 # Project title
 
-[![Build Status](https://img.shields.io/badge/language-python-brightgreen?style=flat-square)](https://www.python.org/)
+[![Language](https://img.shields.io/badge/language-python-brightgreen?style=flat-square)](https://www.python.org/)
 
 A little info about your project and/ or overview that explains **what** the project is about.
 
