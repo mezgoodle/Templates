@@ -9,6 +9,7 @@ A little info about your project and/ or overview that explains **what** the pro
 ## Table of contents
 
 - [Project title](#project-title)
+- [The README Checklist](#the-readme-checklist)
 - [Motivation](#motivation)
 - [Build status](#build-status)
 - [Badges](#badges)
@@ -24,6 +25,21 @@ A little info about your project and/ or overview that explains **what** the pro
 - [Contribute](#contribute)
 - [Credits](#credits)
 - [License](#license)
+
+## The README Checklist
+
+A helpful checklist to gauge how your README is coming along:
+
+- [ ] One-liner explaining the purpose of the module
+- [ ] Necessary background context & links
+- [ ] Potentially unfamiliar terms link to informative sources
+- [ ] Clear, *runnable* example of usage
+- [ ] Installation instructions
+- [ ] Extensive API documentation
+- [ ] Performs [cognitive funneling](https://github.com/noffle/art-of-readme#cognitive-funneling)
+- [ ] Caveats and limitations mentioned up-front
+- [ ] Doesn't rely on images to relay critical information
+- [ ] License
 
 ## Motivation
 
