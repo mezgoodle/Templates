@@ -1,3 +1,2 @@
-<link rel="stylesheet" type="text/css" media="all" href="style.css" />
-
-<h1 class="text-center">Hi</h1>
+# Hi 
+{#hi style="color:blue;font-size:46px;"}
