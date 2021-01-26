@@ -1,16 +1,16 @@
-<h1 align="center">
+<h1 id="project-title" align="center">
  Project title<br>
  <img alt="common readme" src="https://img.shields.io/badge/language-python-brightgreen?style=flat-square">
 </h1>
 
 <p align="center">
  A little info about your project and/ or overview that explains <strong>what</strong> the project is about.
+ <blockquote>Hello everyone! This is the repository of my package on Python "sync-folders".</blockquote>
 </p>
-
-<blockquote>Hello everyone! This is the repository of my package on Python "sync-folders".</blockquote>
 
 ## Table of contents
 
+- [Project title](#project-title)
 - [The README Checklist](#the-readme-checklist)
 - [Motivation](#motivation)
 - [Build status](#build-status)
