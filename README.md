@@ -1,6 +1,7 @@
-# Project title
-
-[![Language](https://img.shields.io/badge/language-python-brightgreen?style=flat-square)](https://www.python.org/)
+<h1 align="center">
+ Project title<br>
+ <img alt="common readme" src="https://img.shields.io/badge/language-python-brightgreen?style=flat-square">
+</h1>
 
 A little info about your project and/ or overview that explains **what** the project is about.
 
@@ -8,7 +9,6 @@ A little info about your project and/ or overview that explains **what** the pro
 
 ## Table of contents
 
-- [Project title](#project-title)
 - [The README Checklist](#the-readme-checklist)
 - [Motivation](#motivation)
 - [Build status](#build-status)
