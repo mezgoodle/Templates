@@ -64,7 +64,7 @@ Other badges
 
 If you're using any code style like xo, standard etc. That will help others while contributing to your project.
 
-> I'm using [Codacy](https://www.codacy.com/) for automate my code quality.
+> I'm using [Codacy](https://www.codacy.com/) to automate my code quality.
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
