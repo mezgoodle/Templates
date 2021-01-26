@@ -3,9 +3,11 @@
  <img alt="common readme" src="https://img.shields.io/badge/language-python-brightgreen?style=flat-square">
 </h1>
 
-A little info about your project and/ or overview that explains **what** the project is about.
+<p align="center">
+ A little info about your project and/ or overview that explains <strong>what</strong> the project is about.
+</p>
 
-> Hello everyone! This is the repository of my package on Python "sync-folders".
+<blockquote>Hello everyone! This is the repository of my package on Python "sync-folders".</blockquote>
 
 ## Table of contents
 
