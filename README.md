@@ -1,6 +1,11 @@
 <h1 id="project-title" align="center">
- Project title<br>
- <img alt="common readme" src="https://img.shields.io/badge/language-python-brightgreen?style=flat-square">
+  Project title<br>
+  <img alt="language" src="https://img.shields.io/badge/language-python-brightgreen?style=flat-square" />
+  <img alt="language" src="https://img.shields.io/github/issues/mezgoodle/Templates?style=flat-square" />
+  <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/mezgoodle/Templates?style=flat-square" />
+  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mezgoodle/Templates?style=flat-square" />
+  <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/mezgoodle/Templates?style=flat-square" />
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mezgoodle/Templates?style=flat-square">
 </h1>
 
 <p align="center">
@@ -8,7 +13,9 @@
  <blockquote>Hello everyone! This is the repository of my package on Python "sync-folders".</blockquote>
 </p>
 
-## Table of contents
+<h2 align="center">
+  <i>Table of contents</i>
+</h2>
 
 - [Project title](#project-title)
 - [The README Checklist](#the-readme-checklist)
