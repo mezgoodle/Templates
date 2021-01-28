@@ -1,5 +1,6 @@
-# Contributing to [`project-name`](https://github.com/mezgoodle/Templates)
-
+<h1 align="center">
+    Contributing to <a href="https://github.com/mezgoodle/Templates">project-name</a>
+</h1>
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
 ## How to contribute to `project-name`
