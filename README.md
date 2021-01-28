@@ -10,7 +10,7 @@
 
 <p align="center">
  A little info about your project and/ or overview that explains <strong>what</strong> the project is about.
- <blockquote>Hello everyone! This is the repository of my package on Python "sync-folders".</blockquote>
+ <blockquote>🌟Hello everyone! This is the repository of my package on Python "sync-folders".🌟</blockquote>
 </p>
 
 <h2 align="center">
@@ -50,7 +50,7 @@ A helpful checklist to gauge how your README is coming along:
 - [ ] Doesn't rely on images to relay critical information
 - [ ] License
 
-## Motivation
+## `Motivation`🎖️
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
