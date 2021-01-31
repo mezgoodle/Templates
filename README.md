@@ -29,7 +29,7 @@
 - [Code Example :pushpin:](#code-example-pushpin)
 - [Installation :computer:](#installation-computer)
 - [Fast usage :dash:](#fast-usage-dash)
-- [API Reference :fireworks](#api-reference-fireworks)
+- [API Reference :fireworks:](#api-reference-fireworks)
 - [Tests :microscope:](#tests-microscope)
 - [Contribute :running:](#contribute-running)
 - [Credits :cat::handshake:](#credits-cathandshake)
@@ -105,7 +105,7 @@ Provide step by step series of examples and explanations about how to get a deve
 
 If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
 
-## API Reference :fireworks
+## API Reference :fireworks:
 
 Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
