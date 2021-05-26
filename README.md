@@ -13,28 +13,6 @@
  <blockquote>🌟Hello everyone! This is the repository of my package on Python "sync-folders".🌟</blockquote>
 </p>
 
-<h2 align="center">
-  <i>Table of contents</i>
-</h2>
-
-- [Project title](#project-title)
-- [The README Checklist](#the-readme-checklist)
-- [Motivation :exclamation:](#motivation-exclamation)
-- [Build status :hammer:](#build-status-hammer)
-- [Badges :mega:](#badges-mega)
-- [Code style :scroll:](#code-style-scroll)
-- [Screenshots :camera:](#screenshots-camera)
-- [Tech/framework used :wrench:](#techframework-used-wrench)
-- [Features :muscle:](#features-muscle)
-- [Code Example :pushpin:](#code-example-pushpin)
-- [Installation :computer:](#installation-computer)
-- [Fast usage :dash:](#fast-usage-dash)
-- [API Reference :fireworks:](#api-reference-fireworks)
-- [Tests :microscope:](#tests-microscope)
-- [Contribute :running:](#contribute-running)
-- [Credits :cat::handshake:](#credits-cathandshake)
-- [License :bookmark:](#license-bookmark)
-
 ## The README Checklist
 
 A helpful checklist to gauge how your README is coming along:
