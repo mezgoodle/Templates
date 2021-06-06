@@ -46,14 +46,6 @@ Build status of continus integration i.e. travis, appveyor etc.
 Other badges
 
 [![Build Status](https://img.shields.io/badge/Theme-Template-brightgreen?style=flat-square)](https://www.google.com.ua/)
-
-## Code style :scroll:
-
-If you're using any code style like xo, standard etc. That will help others while contributing to your project.
-
-> I'm using [Codacy](https://www.codacy.com/) to automate my code quality.
-
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots :camera:
 
